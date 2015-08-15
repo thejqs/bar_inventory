@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+
+{% block content %}
+    <h1>{{ booze.maker }}</h1>
+
+    <strong>Type: </strong>{{ booze.booze_type }}
+    </br>
+
+    <strong>Style: </strong>{{ booze.style }}
+    </br>
+
+    <strong>Bottle label: </strong>{{ booze.bottle_label }}
+    </br>
+
+    <strong>Country of origin: </strong>{{ booze.country_of_origin }}
+    </br>
+
+    <strong>Easily replaceable: </strong>
+    {% if not booze.easily_replaceable %}
+    This isn't easily replaceable
+{% endif %}
+{% if booze.easily_replaceable %}
+Easy to find again. No big shakes.
+{% endif %}
+    </br>
+
+    <strong>Total bottles: </strong>{{ booze.total_bottles }}
+    </br>
+
+   
+    </br>    
+
+{% endblock %}  

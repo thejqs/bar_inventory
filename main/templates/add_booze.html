@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+
+
+
+{% block content %}
+    
+
+    <div class='container'>
+        <div class='row'>
+            <div class='col-sm-offset-4 centered'>
+
+            <form method='POST' action="/add_booze/">
+
+                {% csrf_token %}
+
+                {{ form.as_p }}
+
+                </br>
+
+                <input type="submit" method='post' value='go ahead. get loaded.'>
+
+
+                
+
+
+            </form>
+
+                
+            </div>
+        </div>
+        
+    </div>    
+
+
+
+{% endblock %}

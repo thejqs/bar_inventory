@@ -1,0 +1,55 @@
+As a user, I want to create a new type of booze
+    -- create pre-loaded booze types
+
+As a user, I want to create a new booze object
+
+As a user, I want to see a list of my specific boozes
+
+As a user, I want to see how many bottles of a specific booze are in my house
+
+As a user, I want to see a list of how many of each booze type are in my house
+
+As a user, I want to remember where I stored a bottle
+
+As a user, I want to find the types of booze I have in my house
+
+As a user, I want to know over time how many bottles of a booze I've bought or finished
+
+As a user, I want to know the sizes of the bottles
+
+As a user, I want to be aware if a bottle is one I can't replace
+
+As a user, I want to see or upload a photo of the bottle and/or label
+
+As a user, I want to track where my booze came from
+
+As a user, I want information about what my booze is made from
+
+As a user, I want to remember whether this booze was a gift
+
+As a user, I want to see vintages
+
+As a user, I want to store tasting notes
+
+As a user, I want to write reminder notes about where I stored a bottle
+
+As a user, I want to delete a mistaken entry
+
+As a user, I want to favorite a bottle for buying again
+
+As a user, I want an alert when I'm on my last bottle of a type of booze
+
+As a user, making a shopping list would be helpful
+
+As a user, I want to know whether there was a price change on something in my shopping list 
+
+As a user, adding favorites would be helpful
+
+As a user, marking something "do not buy again" would be helpful
+
+As a user, I want what I enter to be available to me on a repeat visit
+
+As an admin, I do not want to store user data in a way that could identify a user
+
+As an admin, I want to recognize a returning user
+

@@ -1,0 +1,58 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+
+{% block content %}
+
+<div class='container'>
+<div class='row'>
+<div class='col-sm-offset-4'>
+
+<form method='POST' action='/barstuff/booze-search/'>
+
+    {% csrf_token %}
+
+    {{ form.as_p }}
+
+<input type="submit" method='post' value='go ahead. get loaded.'>
+    
+</form>
+
+</br>
+</br>
+
+<em>{{ valid }}</em>
+</br>
+</br>
+
+{% for booze in boozes %}
+<a href="/barstuff/booze/{{ booze.pk }}">
+{{ booze.booze_type }}
+</a>
+</br>
+{{ booze.style }}
+</br>
+{{ booze.maker }}
+</br>
+{{ booze.bottle_label }}
+</br>
+{{ booze.country_of_origin }}
+</br>
+{% if not booze.easily_replaceable %}
+    This isn't easily replaceable     
+{% endif %}
+{% if booze.easily_replaceable %}
+    Easy to find again. No big shakes.    
+{% endif %}
+</br>
+{{ total_bottles }}
+</br>
+{% endfor %}
+
+{# <a href="booze_detail/{{ booze_id.pk }}">{{ booze.booze_type }}</a> #}
+
+</div>
+
+</div>
+</div>
+    
+{% endblock %}

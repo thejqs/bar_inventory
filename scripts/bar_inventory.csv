@@ -1,0 +1,125 @@
+type,style,maker,bottle_label,proof,easily_replaceable,country_of_origin,main_distillate
+Whisk(e)y,Bourbon,W.L. Weller,Special Reserve,90,,US,corn
+Whisk(e)y,Scotch,Laphroaig,Triple Wood,,,Scotland,
+Gin,American,Bluecoat,,,,US,grain
+Gin,Genever,Boomsma,Oude,,N,Netherlands,grain
+Brandy,Apple,Laird's,Applejack,,,US,apple
+Brandy,Apple,Laird's,Straight Apple Brandy Bottled in Bond,100,N,US,apple
+Bitters,Nonpotable,Angostura,Orange,,,,
+Bitters,Nonpotable,Regan's,Orange No. 6,,,,
+Bitters,Nonpotable,Scrappy's,Orange,,,,
+Whisk(e)y,Bourbon,Old Weller,Antique,107,N,US,corn
+Liqueur,Chile,homemade,Chile v1,,N,,
+Liqueur,Chile,homemade,Chile v2,,N,,
+Liqueur,Lemon,homemade,Limoncello v1,,N,,
+Vermouth,Dry,Dolin,,,,France,grape
+Vermouth,Sweet,Dolin,,,,France,grape
+Vermouth,Bianco (Blanc),Dolin,,,,France,grape
+Bitters,Amaro,Branca,Fernet-Branca,,,Italy,
+Bitters,Amaro,Branca,Branca Menta,,N,Italy,
+Bitters,Amaro,Varnelli,Dell'Erborista,,N,Italy,
+Bitters,Amaro,Varnelli,Sibilla,,N,Italy,
+Bitters,Amaro,Leopold,Fernet Leopold,,N,US,
+Bitters,Amaro,Meletti,,,N,Italy,
+Whisk(e)y,Bourbon,Heaven Hill,Old Heaven Hill Bottled in Bond,100,N,US,corn
+Whisk(e)y,Scotch,Amrut,Fusion,,N,India,
+Liqueur,Cherry,Luxardo,Maraschino,,,Italy,
+Liqueur,Apertif,Campari,Campari,,,Italy,
+Liqueur,Apertif,Barbieri,Aperol,,,Italy,
+Gin,Schwarzwald,Monkey 47,Schwarzwald Dry,,N,Germany,grain
+Vermouth,Apertif,Lillet,Blanc,,,France,
+Whisk(e)y,Rye,Wild Turkey,101,101,N,US,
+Whisk(e)y,Rye,Pikesville,,,N,US,
+Whisk(e)y,Bourbon,Blanton's,,,,US,
+Bitters,Nonpotable,Bitter Truth,Celery,,,,
+Bitters,Nonpotable,homemade,Chinese,,N,,
+Bitters,Nonpotable,homemade,Ginger Cardamom,,N,,
+Liqueur,Mint,homemade,Creme de Menthe,,N,,
+Liqueur,Chocolate,homemade,Creme de Cacao,,N,,
+Gin,American,House Spirits,Aviation,,,US,grain
+Gin,American,Leopold,,,N,US,
+Bitters,Nonpotable,Angostura,Orange,,,,
+Bitters,Nonpotable,Boker's,Aromatic,,N,,
+Bitters,Nonpotable,Peychaud's,New Orleans,,,,
+Bitters,Nonpotable,Bitter Truth,Jerry Thomas,,N,,
+Bitters,Nonpotable,Bitter Truth,Creole,,N,,
+Bitters,Nonpotable,Brooklyn Hemispherical,Meyer Lemon,,N,,
+Whisk(e)y,Rye,Sazerac,,,N,US,
+Bitters,Amaro,Cappelletti,Elisir Novasalus,,N,Italy,
+Vermouth,Dry,Imbue,Petal & Thorn,,N,US,
+Whisk(e)y,Rye,James Oliver,,,N,US,
+Liqueur,Violet,Rothman & Winter,Creme de Violette,,,Austria,
+Rum,Dark,Kirk & Sweeney,12-year,,,Dominican Republic,sugar
+Rum,Light,Maggie's Farm,white,,N,US,sugar
+Rum,Light,Maggie's Farm,Queen's Share white,,N,US,sugar
+Rum,Light,Maggie's Farm,Queen's Share Four Roses,,N,US,sugar
+Brandy,Eau de vie,Maggie's Farm,Pear,,N,US,sugar
+Agave,Tequila,Corralejo,blanco,,N,Mexico,agave
+Agave,Mezcal,Koch el Mezcal,Wild Agave,,N,Mexico,agave
+Agave,Mezcal,Mezcaloteca,Maguey Verde,,N,Mexico,agave
+Agave,Mezcal,Ilegal,Joven,,,Mexico,agave
+Liqueur,Thyme,Distilleries Provence,Farigoule,,N,France,
+Liqueur,Violet,Cooper Spirits Int'l,Creme Yvette,,,,
+Vermouth,Sweet,Cocci,Vermouth di Torino,,N,Italy,
+Vermouth,Apertif,Cocci,Americano,,N,Italy,
+Vermouth,Apertif,Cocci,Americano Rosa,,N,Italy,
+Bitters,Amaro,Atelie,Cardamaro,,N,Italy,
+Bitters,Amaro,Averna,Averna,,,Italy,
+Bitters,Amaro,Pernod Ricard,Ramazzotti,,,Italy,
+Bitters,Amaro,Nonino,Nonino,,,Italy,
+Liqueur,Herbal,Bacardi,Benedictine,,,,
+Liqueur,Caraway,Combier,Kummel,,N,,
+Brandy,Fruit,Heering,Cherry,,,,
+Liqueur,Herbal,Chartreuse,yellow,,,,
+Liqueur,Curacao,Pierre Ferrand,Dry Curacao,,N,,
+Liqueur,Triple sec,Cointreau,Orange,,,,
+Liqueur,Walnut,Nux Alpina,Nocino,,N,,
+Liqueur,Alpine,Zirbenz,Stone Pine,,N,,
+Vermouth,Sweet,Carpano,Punt e Mes,,N,,
+Vermouth,Apertif,Dubonnet,Rouge,,,,
+Liqueur,Absinthe,Pacifique,Absinthe Verte Supérieure,,N,,
+Liqueur,pastis,Pernod Ricard,Pernod,,,,
+Liqueur,Gentian,Pernod Ricard,Suze,,N,,
+Rum,Dark,Flor de Cana,7-year,,N,,sugar
+Whisk(e)y,Bourbon,Old Forester,Signature,100,N,,corn
+Whisk(e)y,Scotch,Ardbeg,10-year,,,Scotland,
+Whisk(e)y,Scotch,Bunnahabhain,12-year,,,Scotland,
+Whisk(e)y,Bourbon,Old Fitzgerald,Bottled in Bond,,,,corn
+Whisk(e)y,Rye,Rittenhouse,Bottled in Bond,100,,,rye
+Gin,Portland Dry,Bull Run Distilling,Aria,,N,US,grain
+Gin,Portland Dry,New Deal Distilling,No. 33,,N,US,grain
+Gin,Winter,New Deal Distilling,No. 1,,N,US,grain
+Gin,Genever,Boomsma,Jonge,,N,,grain
+Rum,Dark,Smith & Cross,Navy Strength,,,Jamaica,sugar
+Rum,Light,Wray & Nephew,Overproof,,,,sugar
+Liqueur,Herbal,Damiana,Damiana Guaycura Liqueur,,N,Mexico,
+Vermouth,Bianco (Blanc),Del Professore,Del Professore white,,N,,
+Gin,Old Tom,Hayman's,,,,,grain
+Whisk(e)y,Scotch,Oban,14-year,,,Scotland,
+Liqueur,Ginger,Domaine de Canton,,,,,
+Liqueur,Coca Leaf,Agwa,,,N,,
+Gin,,St. George,Terroir,,N,,grain
+Gin,,St. George,Reposado,,N,,grain
+Bitters,Amaro,Don Ciccio & Figli,Amaro Sirene,,N,,
+Bitters,Amaro,Torani,Torani Brand Amer,,N,,
+Agave,Mezcal,Mezcaloteca,Espedin,,N,,agave
+Whisk(e)y,Bourbon,Oregon Spirit Distillers,C.W. Irwin,,N,,corn
+Whisk(e)y,Bourbon,OYO,Michelone Reserve,,,,corn
+Whisk(e)y,Bourbon,Evan Williams,Single Barrel Vintage,,,,corn
+Whisk(e)y,Rye,Wigle,Deep Cut,,,,rye
+Whisk(e)y,Bourbon,E.H. Taylor,Bottled in Bond,,,,corn
+Liqueur,Curacao,Marie Brizard,Orange,,,,
+Brandy,Cognac,Bacchus,Kazakhstan Cognac Three Stars,,N,Kazakhstan,
+Bitters,Amaro,Campari,Cynar,,,,
+Liqueur,Herbal,Pimm's,No. 1 Cup,,,,
+Brandy,Pisco,Barsol,Quebranta,,,Peru,grape
+Brandy,Armagnac,Marie Duffau,Napoleon,,,,
+Whisk(e)y,Bourbon,Heaven Hill,John E. Fitzgerald Larceny ,,,,corn
+Liqueur,Amaro,Luxardo,Abano,,N,,
+Liqueur,Amaro,Luxardo,Fernet,,N,,
+Liqueur,Amaro,Zucca,Rabarbaro,,N,,
+Liqueur,Amaro,Peloni,Braulio,,N,,
+Liqueur,Amaro,Montenegro,Amaro Montenegro,,N,,
+Liqueur,Amaro,,S. Maria al Monte,,N,,
+Liqueur,Amaro,Paolucci,Amaro CioCiaro,,N,,
+Liqueur,Genepy,Guillaumette,L'authentique Genepi,,N,France,
